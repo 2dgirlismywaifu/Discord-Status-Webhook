@@ -43,8 +43,8 @@ CREDITS="$AUTHOR_NAME authored & committed"
 
 TIMESTAMP=$(date --utc +%FT%TZ)
 WEBHOOK_DATA='{
-  "username": "",
-  "avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+  "username": "2dgirlismywaifu",
+  "avatar_url": "https://gravatar.com/avatar/e87b3321c975c33493a771139de93b90",
   "embeds": [ {
     "color": '$EMBED_COLOR',
     "author": {
